@@ -1,0 +1,23 @@
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\QT Discord.exe.config
+G:\Dream Bot\QT Discord\QT Discord\obj\Debug\QT Discord.csprojResolveAssemblyReference.cache
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\QT Discord.exe
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\QT Discord.pdb
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Discord.Net.Commands.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Discord.Net.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Newtonsoft.Json.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.Concurrent.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\RestSharp.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\WebSocket4Net.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Newtonsoft.Json.xml
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.xml
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.Concurrent.xml
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\RestSharp.xml
+G:\Dream Bot\QT Discord\QT Discord\obj\Debug\QT Discord.exe
+G:\Dream Bot\QT Discord\QT Discord\obj\Debug\QT Discord.pdb
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Crew\bram-fish.jpg
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Crew\oguz-ship.jpg
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Imgur.API.dll
+G:\Dream Bot\QT Discord\QT Discord\bin\Debug\Imgur.API.xml
